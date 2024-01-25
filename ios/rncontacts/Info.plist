@@ -47,5 +47,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSContactsUsageDescription</key>
+	<string>$(PRODUCT_NAME) wants to steal your contacts</string>
 </dict>
 </plist>
